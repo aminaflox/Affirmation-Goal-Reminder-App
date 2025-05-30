@@ -20,8 +20,8 @@
 - PostgreSQL
 
 ## Screenshots
-![Main Page](https://github.com/user-attachments/assets/9fb433b9-5bff-4e27-ace5-aba02b6fb5ec)
-![UI-Kit](https://github.com/user-attachments/assets/37eb7410-711a-4ae9-bc41-d32e34f759fd)
+![Main Page](c:\Users\mamas\OneDrive\Изображения\Снимки экрана\Screenshot 2025-05-30 151810.png)
+![UI-Kit](c:\Users\mamas\OneDrive\Изображения\Снимки экрана\Screenshot 2025-05-30 151909.png)
 
 
 ## Future Improvements
